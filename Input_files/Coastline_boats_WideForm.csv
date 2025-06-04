@@ -1,0 +1,74 @@
+Grid_ID,Grid_ID_SA,Location,Large motorized,Medium motorized,Small motorized,Trawler,Medium,mPS,Surmai,Small,Non-motorised,Comments
+887181,68781,Ratnagiri,6,18,2,6,18,0,0,2,0,
+888894,69094,Kalbadevi beach,11,5,0,11,5,0,0,0,0,
+888895,69095,Kalbadevi beach,5,0,0,5,0,0,0,0,0,
+888898,69098,Ratnagiri,21,5,5,21,5,0,0,5,0,
+888899,69099,Ratnagiri,141,92,0,141,59,0,33,0,0,
+890616,69416,Mirya beach,0,9,0,0,9,0,0,0,0,
+892330,69730,Kalbadevi beach,9,4,5,9,4,0,0,5,0,
+892331,69731,Kalbadevi beach,2,13,37,2,13,0,0,30,7,
+892336,69736,Kajali river,54,35,20,54,0,0,35,20,0,
+899251,71051,Vijaydurga,0,4,2,0,0,0,4,2,0,
+899252,71052,Vijaydurga,3,0,0,3,0,0,0,0,0,
+902679,71679,Nate (rivermouth),62,59,20,62,0,0,59,20,0,
+902680,71680,Nate (rivermouth),43,10,0,43,0,0,10,0,0,
+904397,71997,Nate (rivermouth),46,21,20,46,0,0,21,20,0,
+904423,72023,Devgadh,11,31,10,11,0,0,31,10,0,90% are trawlers
+906140,72340,Devgadh,17,3,9,16,0,0,3,9,0,
+906141,72341,Devgadh,26,25,2,24,0,0,25,2,0,
+907860,72660,Taramumbari (rivermouth),0,13,5,0,9,0,4,5,0,
+907861,72661,Taramumbari (rivermouth),0,7,2,0,7,0,0,2,0,
+911304,73304,Tambaldeg,0,19,0,0,0,0,0,19,0,All small motorised
+916466,74266,Aachara,3,10,11,0,1,6,3,9,0,"All Purse seines, mPS = super majority"
+916467,74267,Aachara,1,7,51,0,0,7,0,41,0,"20% non-motorised, but they don’t go the sea"
+919912,74912,Sarjekot,0,7,11,0,7,0,7,11,0,
+919913,74913,Sarjekot,0,0,3,0,0,0,0,3,0,
+919914,74914,Sarjekot,0,6,15,0,0,0,6,15,0,
+919917,74917,Malvan,2,6,0,2,0,0,6,0,0,
+921632,75232,Sarjekot,3,25,4,3,0,0,25,4,0,
+921634,75234,Chivla,0,2,44,0,0,0,2,35,9,From revisited sat image
+921635,75235,Malvan,18,17,10,18,0,0,17,4,6,From revisited sat image
+921636,75236,Malvan,18,19,118,18,0,0,19,95,23,From revisited sat image
+923354,75554,Dandi,0,2,99,0,0,0,2,75,24,From revisited sat image
+923355,75555,Tarkarli,0,2,53,0,0,0,2,35,18,From revisited sat image
+925075,75875,Tarkarli,0,0,3,0,0,0,0,3,0,From revisited sat image
+925076,75876,Tarkarli,0,0,38,0,0,0,0,20,18,From revisited sat image
+926797,76197,Devbagh,0,0,40,0,0,0,0,24,16,40% non-motorised
+926798,76198,Devbagh,0,0,8,0,0,0,0,4,4,
+930237,76837,Nivti,0,0,5,0,0,0,0,5,0,
+933673,77473,Nivti,0,47,89,0,22,25,0,71,18,"20% non-motorised, mPS = 25 from interview"
+938829,78429,Khavane beach,0,0,20,0,0,0,0,12,8,From revisited sat image
+942266,79066,Kelus beach,0,0,29,0,0,0,0,15,14,From revisited sat image
+943986,79386,Khondra beach,0,0,6,0,0,0,0,2,4,From revisited sat image
+945705,79705,Wayangani beach,0,0,14,0,0,0,0,2,12,From revisited sat image
+945706,79706,Dabholi beach,0,0,5,0,0,0,0,0,5,From revisited sat image
+947425,80025,Vengurla,25,19,49,10,21,40,0,31,20,"40% are trawlers, from revisited sat image, mPS = 40 through interview"
+949144,80344,Vengurla,0,0,18,0,0,0,0,10,8,From revisited sat image
+949145,80345,Vengurla,0,0,8,0,0,0,0,3,5,From revisited sat image
+950864,80664,Vengurla,0,0,34,0,0,0,0,31,3,From revisited sat image
+950865,80665,Vengurla,0,0,55,0,0,0,0,43,12,From revisited sat image
+952585,80985,Mohamed beach,0,7,10,0,7,0,0,0,10,From revisited sat image
+954306,81306,Shiroda beach,0,5,4,0,5,0,0,4,0,From revisited sat image
+954307,81307,Shiroda beach,0,5,8,0,5,0,0,8,0,From revisited sat image
+954309,81309,Redi,0,0,10,0,0,0,0,10,0,From revisited sat image
+956025,81625,Shiroda beach,0,54,41,0,40,0,14,41,0,From revisited sat image
+961186,82586,Aarambol,0,16,10,,,,,,,
+962905,82905,Aarambol,0,18,0,,,,,,,
+962906,82906,Mandrem beach,0,0,7,,,,,,,
+966346,83546,Morjim beach,0,27,15,,,,,,,
+968065,83865,Chapora bay,0,0,18,,,,,,,
+968066,83866,Chapora bay,6,0,31,,,,,,,
+969783,84183,Chapora bay,0,0,34,,,,,,,
+969788,84188,Baga beach,0,46,2,,,,,,,
+971509,84509,Calangute beach,0,3,6,,,,,,,
+971510,84510,Calangute beach,0,2,2,,,,,,,
+974949,85149,Aguada bay,0,28,0,,,,,,,
+976667,85467,Aguada bay,6,49,0,,,,,,,
+980113,86113,Baina beach,0,26,8,,,,,,,
+980114,86114,Baina beach,0,72,5,,,,,,,
+980115,86115,Baina beach,0,25,3,,,,,,,
+985270,87070,Bogmalo,0,1,3,,,,,,,
+992142,88342,Daynite beach,0,36,13,,,,,,,
+992143,88343,Daynite beach,0,5,2,,,,,,,
+993862,88662,Cansaulim beach,0,8,7,,,,,,,
+993863,88663,Arossim beach,0,4,2,,,,,,,

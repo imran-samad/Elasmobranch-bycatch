@@ -1,0 +1,461 @@
+Sl. No,Date,Vessel_type,lat_deg,lon_deg,lat_deg_end,lon_deg_end,Location,ID,lat_deg_updated,Location_updated,Unused_lat_Marshal_range,Arbitrary_lon_Marshal_range,,Source
+21,18-12-2022,Medium,16.4,73.33333333,,,Achara,655,,,,,,
+22,18-12-2022,Medium,16.4,73.33333333,,,Achara,655,,,,,,
+23,18-12-2022,Medium,16.4,73.33333333,,,Achara,655,,,,,,
+24,18-12-2022,Medium,16.4,73.33333333,,,Achara,655,,,,,,
+113,30-12-2022,Small,16.13333333,73.2,,,Achara,828,16.13333333,Achara,,,,GPS - fisher
+114,30-12-2022,Small,16.13333333,73.2,,,Achara,829,16.13333333,Achara,,,,GPS - fisher
+132,06-01-2023,Medium,16.11666667,73.2,,,Achara,881,16.11666667,Achara,,,,GPS - fisher
+140,10-01-2023,Small,16.15,73.4,,,Achara,914,16.15,Achara,,,,GPS - fisher
+141,10-01-2023,Small,16.15,73.4,,,Achara,914,16.15,Achara,,,,GPS - fisher
+142,10-01-2023,Small,16.15,73.4,,,Achara,914,16.15,Achara,,,,GPS - fisher
+143,10-01-2023,Small,16.15,73.4,,,Achara,914,16.15,Achara,,,,GPS - fisher
+201,,Medium,16.16666667,,,,Achara,Marshal,16.16666667,Achara,,73.2,,Logbook
+301,04-02-2023,Large,16.05,73.41666667,,,Achara,1155,16.05,,,,,
+302,21-02-2023,Medium,16.13333333,73.31666667,,,Achara,1203,16.13333333,,,,,
+318,05-03-2023,Small,16.13333333,73.4,,,Achara,1324,16.13333333,,,,,
+319,05-03-2023,Small,16.13333333,73.4,,,Achara,1324,16.13333333,,,,,
+320,05-03-2023,Small,16.13333333,73.4,,,Achara,1324,16.13333333,,,,,
+321,05-03-2023,Small,16.13333333,73.4,,,Achara,1324,16.13333333,,,,,
+348,19-04-2023,Medium,16.16166667,73.41666667,,,Achara,1657,16.16166667,,,,,
+349,19-04-2023,Medium,16.16166667,73.41666667,,,Achara,1657,16.16166667,,,,,
+216,,Medium,,,,,Bhogwe beach,Marshal,,Bhogwe beach,15.98333333,73.2,,
+220,,Medium,,,,,Bhogwe beach,Marshal,,Bhogwe beach,15.96666667,73.2,,
+224,,Medium,,,,,Bhogwe beach,Marshal,,Bhogwe beach,15.95,73.2,,
+228,,Medium,,,,,Bhogwe beach,Marshal,,Bhogwe beach,15.93333333,73.2,,
+232,,Medium,,,,,Bhogwe beach,Marshal,,Bhogwe beach,15.91666667,73.2,,
+236,,Medium,,,,,Bhogwe beach,Marshal,,Bhogwe beach,15.9,73.2,,
+240,,Medium,,,,,Bhogwe beach,Marshal,,Bhogwe beach,15.88333333,73.2,,
+244,,Medium,,,,,Bhogwe beach,Marshal,,Bhogwe beach,15.86666667,73.2,,
+4,12-12-2022,Small,16.05763333,73.4275,,,Chivla,588,16.05763333,Chivla,,,,GPS - fisher
+11,15-12-2022,Small,16.06666667,73.41666667,,,Chivla,622,16.06666667,Chivla,,,,GPS - fisher
+102,30-12-2022,Small,16.08333333,73.41666667,,,Chivla,811,16.08333333,Chivla,,,,GPS - fisher
+103,30-12-2022,Small,16.08333333,73.41666667,,,Chivla,811,16.08333333,Chivla,,,,GPS - fisher
+104,30-12-2022,Small,16.08333333,73.41666667,,,Chivla,811,16.08333333,Chivla,,,,GPS - fisher
+105,30-12-2022,Small,16.08333333,73.41666667,,,Chivla,811,16.08333333,Chivla,,,,GPS - fisher
+205,,Medium,16.06666667,,,,Chivla,Marshal,16.06666667,Chivla,,73.2,,Logbook
+9,15-12-2022,Small,16.0417,73.4417,,,Dandi,621,16.0417,Dandi,,,,GPS - fisher
+10,15-12-2022,Small,16.0417,73.4417,,,Dandi,621,16.0417,Dandi,,,,GPS - fisher
+126,04-01-2023,Small,16,73.4,,,Dandi,869,16,Dandi,,,,GPS - fisher
+208,,Medium,16.01666667,,,,Dandi,Marshal,16.01666667,Dandi,,73.2,,Logbook
+273,26-01-2023,Small,15.98333333,73.45,,,Dandi,1036,,,,,,
+342,16-04-2023,Small,15.98333333,0,,,Dandi,1649,,,,,,
+343,16-04-2023,Small,15.98333333,0,,,Dandi,1649,,,,,,
+150,16-01-2023,Medium,15.95,73.2,,,Devbagh,970,15.95,Devbagh,,,,GPS - fisher
+151,16-01-2023,Medium,15.95,73.2,,,Devbagh,970,15.95,Devbagh,,,,GPS - fisher
+152,16-01-2023,Medium,15.95,73.2,,,Devbagh,970,15.95,Devbagh,,,,GPS - fisher
+167,21-10-2022,Large,15.9398,73.457,,,Devbagh,Track_31-OCT-22 082408,15.9398,Devbagh,,,,GPS - tracker
+168,24-10-2022,Large,15.9076,73.4553,,,Devbagh,Track_31-OCT-22 082408,15.9076,Devbagh,,,,GPS - tracker
+169,24-10-2022,Large,15.958,73.4357,,,Devbagh,Track_31-OCT-22 082408,15.958,Devbagh,,,,GPS - tracker
+215,,Medium,,,,,Devbagh,Marshal,,Devbagh,15.98333333,73.2,,
+219,,Medium,,,,,Devbagh,Marshal,,Devbagh,15.96666667,73.2,,
+223,,Medium,,,,,Devbagh,Marshal,,Devbagh,15.95,73.2,,
+227,,Medium,,,,,Devbagh,Marshal,,Devbagh,15.93333333,73.2,,
+231,,Medium,,,,,Devbagh,Marshal,,Devbagh,15.91666667,73.2,,
+235,,Medium,,,,,Devbagh,Marshal,,Devbagh,15.9,73.2,,
+239,,Medium,,,,,Devbagh,Marshal,,Devbagh,15.88333333,73.2,,
+243,,Medium,,,,,Devbagh,Marshal,,Devbagh,15.86666667,73.2,,
+198,,Medium,16.38333333,,,,Devgadh,Marshal,16.38333333,Devgadh,,73.2,,Logbook
+170,25-10-2022,Large,15.6694,73.6302,,,Goa,Track_31-OCT-22 082408,15.6694,Goa,,,,GPS - tracker
+171,25-10-2022,Large,15.6656,73.6415,,,Goa,Track_31-OCT-22 082408,15.6656,Goa,,,,GPS - tracker
+172,25-10-2022,Large,,73.2,,,Goa,Track_31-OCT-22 082408,,Goa,,,,
+173,31-10-2022,Large,,73.2,,,Goa,Track_09-NOV-22 073928,,Goa,,,,
+272,,Medium,,,,,Goa,Marshal,15.7,Goa,15.7,73.2,,Logbook
+344,19-04-2023,Medium,15.48333333,73.51666667,,,Goa,1655,15.48333333,,,,,
+345,19-04-2023,Medium,15.48333333,73.51666667,,,Goa,1655,15.48333333,,,,,
+213,,Medium,16,,,,"Jadavwadi, Nishanghati",Marshal,16,Dandi,,73.2,,Logbook
+202,,Medium,16.1,,,,Juva,Marshal,16.1,Juva,,73.2,,Logbook
+362,17-05-2023,Medium,16.28333333,73.31666667,,,Kavda rock,1838,16.28333333,,,,,
+246,,Medium,,,,,Kelus,Marshal,,Kelus,15.86666667,73.2,,
+249,,Medium,,,,,Kelus,Marshal,,Kelus,15.85,73.2,,
+252,,Medium,,,,,Kelus,Marshal,,Kelus,15.83333333,73.2,,
+255,,Medium,,,,,Kelus,Marshal,,Kelus,15.81666667,73.2,,
+199,,Medium,16.23333333,,,,Kunkeshwar,Marshal,16.23333333,Kunkeshwar,,73.2,,Logbook
+3,12-12-2022,Small,15.96666667,73.4,,,Lighthouse,585,15.96666667,Lighthouse,,,,GPS - fisher
+16,17-12-2022,Medium,15.76666667,73.48333333,,,Lighthouse,632,15.76666667,Lighthouse,,,,GPS - fisher
+17,17-12-2022,Medium,15.76666667,73.48333333,,,Lighthouse,632,15.76666667,Lighthouse,,,,GPS - fisher
+18,17-12-2022,Medium,15.76666667,73.48333333,,,Lighthouse,632,15.76666667,Lighthouse,,,,GPS - fisher
+54,22-12-2022,Medium,15.85,73.43333333,,,Lighthouse,705,15.85,Lighthouse,,,,GPS - fisher
+55,22-12-2022,Medium,15.85,73.43333333,,,Lighthouse,705,15.85,Lighthouse,,,,GPS - fisher
+56,22-12-2022,Medium,15.85,73.43333333,,,Lighthouse,705,15.85,Lighthouse,,,,GPS - fisher
+57,22-12-2022,Medium,15.85,73.43333333,,,Lighthouse,705,15.85,Lighthouse,,,,GPS - fisher
+58,22-12-2022,Medium,15.85,73.43333333,,,Lighthouse,705,15.85,Lighthouse,,,,GPS - fisher
+59,22-12-2022,Medium,15.85,73.43333333,,,Lighthouse,706,15.85,Lighthouse,,,,GPS - fisher
+60,22-12-2022,Medium,15.85,73.43333333,,,Lighthouse,706,15.85,Lighthouse,,,,GPS - fisher
+61,22-12-2022,Medium,15.85,73.43333333,,,Lighthouse,706,15.85,Lighthouse,,,,GPS - fisher
+62,22-12-2022,Medium,15.85,73.43333333,,,Lighthouse,706,15.85,Lighthouse,,,,GPS - fisher
+87,29-12-2022,Medium,15.86666667,73.31666667,,,Lighthouse,788,15.86666667,Lighthouse,,,,GPS - fisher
+115,02-01-2023,Medium,15.96666667,73.16666667,,,Lighthouse,831,15.96666667,Lighthouse,,,,GPS - fisher
+153,18-01-2023,Medium,15.41666667,73.33333333,,,Lighthouse,980,,Lighthouse,,,,
+154,18-01-2023,Medium,15.41666667,73.33333333,,,Lighthouse,980,,Lighthouse,,,,
+155,18-01-2023,Medium,15.41666667,73.33333333,,,Lighthouse,980,,Lighthouse,,,,
+194,28-12-2022,Small,15.85,73.43,,,Lighthouse,GPSDATA-20221228,15.85,Lighthouse,,,,GPS - tracker
+195,,Small,15.953,73.439,,,Lighthouse,GPSDATA-20221228,15.953,Lighthouse,,,,GPS - tracker
+247,,Medium,,,,,Lighthouse,Marshal,,Lighthouse,15.86666667,73.2,,
+250,,Medium,,,,,Lighthouse,Marshal,,Lighthouse,15.85,73.2,,
+253,,Medium,,,,,Lighthouse,Marshal,,Lighthouse,15.83333333,73.2,,
+256,,Medium,,,,,Lighthouse,Marshal,,Lighthouse,15.81666667,73.2,,
+322,17-03-2023,Medium,15.88333333,73.38333333,,,Lighthouse,1429,15.88333333,,,,,
+323,17-03-2023,Medium,15.88333333,73.38333333,,,Lighthouse,1429,15.88333333,,,,,
+324,17-03-2023,Medium,15.88333333,73.38333333,,,Lighthouse,1429,15.88333333,,,,,
+346,19-04-2023,Medium,15.91666667,73.33333333,,,Lighthouse,1656,15.91666667,,,,,
+347,19-04-2023,Medium,15.91666667,73.33333333,,,Lighthouse,1656,15.91666667,,,,,
+350,23-04-2023,Medium,15.88333333,73.35,,,Lighthouse,1676,15.88333333,,,,,
+351,23-04-2023,Medium,15.88333333,73.35,,,Lighthouse,1676,15.88333333,,,,,
+352,23-04-2023,Medium,15.88333333,73.35,,,Lighthouse,1676,15.88333333,,,,,
+353,23-04-2023,Medium,15.88333333,73.35,,,Lighthouse,1676,15.88333333,,,,,
+354,02-05-2023,Medium,15.9,73.41666667,,,Lighthouse,1729,15.9,,,,,
+355,02-05-2023,Medium,15.9,73.41666667,,,Lighthouse,1729,15.9,,,,,
+356,10-05-2023,Medium,15.71666667,73.35,,,Lighthouse,1802,,,,,,
+357,10-05-2023,Medium,15.71666667,73.35,,,Lighthouse,1802,,,,,,
+5,13-12-2022,Medium,15.93333333,73.38333333,,,Malvan,591,15.93333333,Malvan,,,,GPS - fisher
+6,14-12-2022,Medium,16,73.2,,,Malvan,604,16,Malvan,,,,GPS - fisher
+7,14-12-2022,Medium,16,73.2,,,Malvan,604,16,Malvan,,,,GPS - fisher
+8,14-12-2022,Medium,15.91666667,73.33333333,,,Malvan,607,15.91666667,Malvan,,,,GPS - fisher
+25,18-12-2022,Medium,16.25,73.43333333,,,Malvan,656,,Malvan,,,,
+40,21-12-2022,Medium,15.86666667,73,,,Malvan,690,15.86666667,Malvan,,,,GPS - fisher
+41,21-12-2022,Medium,15.86666667,73,,,Malvan,690,15.86666667,Malvan,,,,GPS - fisher
+42,21-12-2022,Medium,15.86666667,73,,,Malvan,690,15.86666667,Malvan,,,,GPS - fisher
+43,21-12-2022,Medium,15.86666667,73,,,Malvan,690,15.86666667,Malvan,,,,GPS - fisher
+44,21-12-2022,Medium,15.86666667,73,,,Malvan,690,15.86666667,Malvan,,,,GPS - fisher
+45,21-12-2022,Medium,15.86666667,73,,,Malvan,690,15.86666667,Malvan,,,,GPS - fisher
+46,21-12-2022,Medium,15.86666667,73,,,Malvan,690,15.86666667,Malvan,,,,GPS - fisher
+47,21-12-2022,Medium,15.86666667,73,,,Malvan,690,15.86666667,Malvan,,,,GPS - fisher
+48,21-12-2022,Medium,15.86666667,73,,,Malvan,690,15.86666667,Malvan,,,,GPS - fisher
+49,21-12-2022,Medium,15.86666667,73,,,Malvan,690,15.86666667,Malvan,,,,GPS - fisher
+50,21-12-2022,Medium,15.83333333,73.22,,,Malvan,693,15.83333333,Malvan,,,,GPS - fisher
+53,22-12-2022,Medium,16.03333333,73.46666667,,,Malvan,704,16.03333333,Malvan,,,,GPS - fisher
+116,02-01-2023,Medium,15.93333333,73.34166667,,,Malvan,833,15.93333333,Malvan,,,,GPS - fisher
+117,02-01-2023,Medium,15.93333333,73.34166667,,,Malvan,833,15.93333333,Malvan,,,,GPS - fisher
+118,02-01-2023,Medium,15.93333333,73.34166667,,,Malvan,833,15.93333333,Malvan,,,,GPS - fisher
+144,11-01-2023,Small,16.03333333,73.2,,,Malvan,938,16.03333333,Malvan,,,,GPS - fisher
+145,11-01-2023,Small,16.03333333,73.2,,,Malvan,938,16.03333333,Malvan,,,,GPS - fisher
+146,14-01-2023,Medium,15.93333333,73.2,,,Malvan,950,15.93333333,Malvan,,,,GPS - fisher
+147,14-01-2023,Medium,15.93333333,73.2,,,Malvan,950,15.93333333,Malvan,,,,GPS - fisher
+148,14-01-2023,Medium,15.93333333,73.2,,,Malvan,950,15.93333333,Malvan,,,,GPS - fisher
+149,16-01-2023,Medium,15.91666667,73.31666667,,,Malvan,969,15.91666667,Malvan,,,,GPS - fisher
+156,18-01-2023,Medium,16.01666667,73.2,,,Malvan,981,16.01666667,Malvan,,,,GPS - fisher
+157,20-01-2023,Medium,16.01666667,73.28333333,,,Malvan,1004,16.01666667,Malvan,,,,GPS - fisher
+158,20-01-2023,Medium,16.01666667,73.28333333,,,Malvan,1004,16.01666667,Malvan,,,,GPS - fisher
+159,20-01-2023,Medium,16.01666667,73.28333333,,,Malvan,1004,16.01666667,Malvan,,,,GPS - fisher
+160,20-10-2022,Small,16.0495,73.4649,,,Malvan,Track_20-OCT-22 212306,16.0495,Malvan,,,,GPS - tracker
+161,22-10-2022,Small,16.0502,73.4647,,,Malvan,GPSDATA-20221022,16.0502,Malvan,,,,GPS - tracker
+162,23-10-2022,Small,16.0463,73.4139,,,Malvan,GPSDATA-20221023,16.0463,Malvan,,,,GPS - tracker
+164,27-10-2022,Medium,15.5799,73.5884,,,Malvan,GPSDATA-20221027,15.5799,Malvan,,,,GPS - tracker
+165,28-10-2022,Medium,15.9548,73.3082,,,Malvan,GPSDATA-20221027,15.9548,Malvan,,,,GPS - tracker
+166,29-10-2022,Small,15.8808,73.4708,,,Malvan,GPSDATA-20221029,,Malvan,,,,
+184,,Large,,73.2,,,Malvan,06-12-2022 09_40_02 PM,,Malvan,,,,
+192,09-12-2022,Large,,73.2,,,Malvan,GPSDATA-20221209,,Malvan,,,,
+193,12-12-2022,Small,16.028,73.433,,,Malvan,GPSDATA-20221211,16.028,Malvan,,,,GPS - tracker
+207,,Medium,16.03333333,,,,Malvan,Marshal,16.03333333,Malvan,,73.2,,Logbook
+209,29-10-2022,Large Trawler,16.04783,73.42587,16.102,73.40891,Malvan,GPSDATA-20200315,16.04783,Malvan,,,,GPS - tracker
+274,29-01-2023,Medium,16,73.3,,,Malvan,1049,16,,,,,
+277,29-01-2023,Medium,15.7,73.4,,,Malvan,1053,15.7,,,,,
+298,04-02-2023,Medium,16.06666667,73.35,,,Malvan,1148,16.06666667,,,,,
+303,21-02-2023,Medium,15.96666667,73.36666667,,,Malvan,1205,15.96666667,,,,,
+304,21-02-2023,Medium,15.96666667,73.36666667,,,Malvan,1205,15.96666667,,,,,
+305,24-02-2023,Medium,15.98333333,73.28333333,,,Malvan,1225,15.98333333,,,,,
+308,25-02-2023,Medium,15.96666667,0,,,Malvan,1240,15.96666667,,,,,
+309,25-02-2023,Medium,15.96666667,0,,,Malvan,1240,15.96666667,,,,,
+330,01-04-2023,Medium,16.06666667,73.3,,,Malvan,1515,16.06666667,,,,,
+331,01-04-2023,Medium,16.06666667,73.3,,,Malvan,1515,16.06666667,,,,,
+332,01-04-2023,Medium,16.06666667,73.3,,,Malvan,1515,16.06666667,,,,,
+340,07-04-2023,Large,16.03333333,73.25,,,Malvan,1589,16.03333333,,,,,
+341,09-04-2023,Medium,16.03333333,73.25,,,Malvan,1590,16.03333333,,,,,
+358,17-05-2023,Medium,16.05,73.36666667,,,Malvan,1837,16.05,,,,,
+359,17-05-2023,Medium,16.05,73.36666667,,,Malvan,1837,16.05,,,,,
+360,17-05-2023,Medium,16.05,73.36666667,,,Malvan,1837,16.05,,,,,
+361,17-05-2023,Medium,16.05,73.36666667,,,Malvan,1837,16.05,,,,,
+211,,Medium,,,,,Modeshwar vaadi,Marshal,,Dandi,,73.2,,
+210,,Medium,16.01666667,,,,Near Rocks,Marshal,16.01666667,Sindhudurg fort,,73.2,,Logbook
+112,30-12-2022,Small,15.75,73.2,,,Nevati rock,825,15.75,Nevati rock,,,,GPS - fisher
+217,,Medium,,,,,Nevati rock,Marshal,,Nevati rock,15.98333333,73.2,,
+221,,Medium,,,,,Nevati rock,Marshal,,Nevati rock,15.96666667,73.2,,
+225,,Medium,,,,,Nevati rock,Marshal,,Nevati rock,15.95,73.2,,
+229,,Medium,,,,,Nevati rock,Marshal,,Nevati rock,15.93333333,73.2,,
+233,,Medium,,,,,Nevati rock,Marshal,,Nevati rock,15.91666667,73.2,,
+237,,Medium,,,,,Nevati rock,Marshal,,Nevati rock,15.9,73.2,,
+241,,Medium,,,,,Nevati rock,Marshal,,Nevati rock,15.88333333,73.2,,
+245,,Medium,,,,,Nevati rock,Marshal,,Nevati rock,15.86666667,73.2,,
+35,21-12-2022,Medium,15.56666667,73.43333333,,,Redi,689,,Redi,,,,
+36,21-12-2022,Medium,15.56666667,73.43333333,,,Redi,689,,Redi,,,,
+37,21-12-2022,Medium,15.56666667,73.43333333,,,Redi,689,,Redi,,,,
+38,21-12-2022,Medium,15.56666667,73.43333333,,,Redi,689,,Redi,,,,
+39,21-12-2022,Medium,15.56666667,73.43333333,,,Redi,689,,Redi,,,,
+66,25-12-2022,Medium,15.75,73.48333333,,,Redi,739,15.75,Redi,,,,GPS - fisher
+67,25-12-2022,Medium,15.75,73.48333333,,,Redi,739,15.75,Redi,,,,GPS - fisher
+259,,Medium,,,,,Redi,Marshal,,Redi,15.81666667,73.2,,
+261,,Medium,,,,,Redi,Marshal,,Redi,15.8,73.2,,
+263,,Medium,,,,,Redi,Marshal,,Redi,15.78333333,73.2,,
+265,,Medium,,,,,Redi,Marshal,,Redi,15.76666667,73.2,,
+267,,Medium,,,,,Redi,Marshal,,Redi,15.75,73.2,,
+269,,Medium,,,,,Redi,Marshal,,Redi,15.73333333,73.2,,
+271,,Medium,,,,,Redi,Marshal,,Redi,15.71666667,73.2,,
+300,04-02-2023,Medium,15.7,73.38333333,,,Redi,1151,15.7,,,,,
+310,25-02-2023,Medium,15.9,73.28333333,,,Redi,1241,15.9,,,,,
+311,25-02-2023,Medium,15.9,73.28333333,,,Redi,1241,15.9,,,,,
+325,21-03-2023,Medium,15.75,73.43333333,,,Redi,1465,15.75,,,,,
+326,21-03-2023,Medium,15.75,73.43333333,,,Redi,1465,15.75,,,,,
+327,21-03-2023,Medium,15.75,73.43333333,,,Redi,1465,15.75,,,,,
+328,21-03-2023,Medium,15.75,73.43333333,,,Redi,1465,15.75,,,,,
+206,,Medium,16.05,,,,Rock garden,Marshal,16.05,Rock garden,,73.2,,Logbook
+63,22-12-2022,Small,16.11666667,73.4,,,Sarjekot,707,16.11666667,Sarjekot,,,,GPS - fisher
+88,29-12-2022,Small,16.13333333,73.4,,,Sarjekot,789,16.13333333,Sarjekot,,,,GPS - fisher
+89,29-12-2022,Small,16.13333333,73.4,,,Sarjekot,789,16.13333333,Sarjekot,,,,GPS - fisher
+90,29-12-2022,Small,16.13333333,73.4,,,Sarjekot,789,16.13333333,Sarjekot,,,,GPS - fisher
+91,29-12-2022,Small,16.13333333,73.4,,,Sarjekot,789,16.13333333,Sarjekot,,,,GPS - fisher
+92,29-12-2022,Small,16.13333333,73.4,,,Sarjekot,789,16.13333333,Sarjekot,,,,GPS - fisher
+93,29-12-2022,Small,16.13333333,73.4,,,Sarjekot,789,16.13333333,Sarjekot,,,,GPS - fisher
+94,29-12-2022,Small,16.13333333,73.4,,,Sarjekot,789,16.13333333,Sarjekot,,,,GPS - fisher
+106,30-12-2022,Small,16.1,73.4,,,Sarjekot,813,16.1,Sarjekot,,,,GPS - fisher
+107,30-12-2022,Small,16.1,73.4,,,Sarjekot,813,16.1,Sarjekot,,,,GPS - fisher
+108,30-12-2022,Small,16.1,73.4,,,Sarjekot,813,16.1,Sarjekot,,,,GPS - fisher
+109,30-12-2022,Small,16.1,73.4,,,Sarjekot,813,16.1,Sarjekot,,,,GPS - fisher
+110,30-12-2022,Small,16.1,73.4,,,Sarjekot,813,16.1,Sarjekot,,,,GPS - fisher
+111,30-12-2022,Small,16.1,73.4,,,Sarjekot,813,16.1,Sarjekot,,,,GPS - fisher
+127,06-01-2023,Small,16.08333333,73.2,,,Sarjekot,877,16.08333333,Sarjekot,,,,GPS - fisher
+128,06-01-2023,Small,16.08333333,73.2,,,Sarjekot,877,16.08333333,Sarjekot,,,,GPS - fisher
+129,06-01-2023,Small,16.08333333,73.2,,,Sarjekot,877,16.08333333,Sarjekot,,,,GPS - fisher
+130,06-01-2023,Small,16.08333333,73.2,,,Sarjekot,877,16.08333333,Sarjekot,,,,GPS - fisher
+131,06-01-2023,Small,16.08333333,73.2,,,Sarjekot,877,16.08333333,Sarjekot,,,,GPS - fisher
+135,07-01-2023,Small,16.13333333,73.38333333,,,Sarjekot,890,16.13333333,Sarjekot,,,,GPS - fisher
+136,07-01-2023,Small,16.13333333,73.38333333,,,Sarjekot,890,16.13333333,Sarjekot,,,,GPS - fisher
+137,07-01-2023,Small,16.13333333,73.38333333,,,Sarjekot,890,16.13333333,Sarjekot,,,,GPS - fisher
+138,07-01-2023,Small,16.13333333,73.38333333,,,Sarjekot,890,16.13333333,Sarjekot,,,,GPS - fisher
+204,,Medium,,,,,Sarjekot,Marshal,,Sarjekot,,73.2,,
+281,29-01-2023,Medium,16.08333333,73.3,,,Sarjekot,1061,16.08333333,,,,,
+283,02-02-2023,Small,16.1,73.36666667,,,Sarjekot,1117,16.1,,,,,
+284,02-02-2023,Small,16.1,73.36666667,,,Sarjekot,1117,16.1,,,,,
+285,02-02-2023,Small,16.1,73.36666667,,,Sarjekot,1117,16.1,,,,,
+286,02-02-2023,Small,16.1,73.36666667,,,Sarjekot,1117,16.1,,,,,
+287,02-02-2023,Small,16.1,73.36666667,,,Sarjekot,1117,16.1,,,,,
+288,02-02-2023,Small,16.1,73.36666667,,,Sarjekot,1117,16.1,,,,,
+289,02-02-2023,Small,16.1,73.36666667,,,Sarjekot,1117,16.1,,,,,
+290,02-02-2023,Small,16.1,73.36666667,,,Sarjekot,1117,16.1,,,,,
+291,02-02-2023,Small,16.18333333,73.36666667,,,Sarjekot,1118,16.18333333,,,,,
+292,02-02-2023,Small,16.18333333,73.36666667,,,Sarjekot,1118,16.18333333,,,,,
+293,02-02-2023,Small,16.18333333,73.36666667,,,Sarjekot,1118,16.18333333,,,,,
+294,02-02-2023,Small,16.18333333,73.36666667,,,Sarjekot,1118,16.18333333,,,,,
+295,02-02-2023,Small,16.18333333,73.36666667,,,Sarjekot,1118,16.18333333,,,,,
+296,02-02-2023,Small,16.18333333,73.36666667,,,Sarjekot,1118,16.18333333,,,,,
+297,02-02-2023,Small,16.18333333,73.36666667,,,Sarjekot,1118,16.18333333,,,,,
+312,03-03-2023,Small,16.13333333,73.4,,,Sarjekot,1295,16.13333333,,,,,
+313,03-03-2023,Small,16.13333333,73.4,,,Sarjekot,1295,16.13333333,,,,,
+314,03-03-2023,Small,16.13333333,73.4,,,Sarjekot,1295,16.13333333,,,,,
+315,03-03-2023,Small,16.13333333,73.4,,,Sarjekot,1295,16.13333333,,,,,
+316,03-03-2023,Small,16.13333333,73.4,,,Sarjekot,1295,16.13333333,,,,,
+317,03-03-2023,Small,16.13333333,73.4,,,Sarjekot,1295,16.13333333,,,,,
+28,21-12-2022,Medium,15.7,73.43333333,,,Shiroda,680,15.7,Shiroda,,,,GPS - fisher
+29,21-12-2022,Medium,15.7,73.45,,,Shiroda,680,15.7,Shiroda,,,,GPS - fisher
+30,21-12-2022,Medium,15.7,73.46666667,,,Shiroda,680,15.7,Shiroda,,,,GPS - fisher
+51,22-12-2022,Medium,15.8,73.43333333,,,Shiroda,703,15.8,Shiroda,,,,GPS - fisher
+52,22-12-2022,Medium,15.8,73.43333333,,,Shiroda,703,15.8,Shiroda,,,,GPS - fisher
+119,03-01-2023,Medium,15.88333333,73.36666667,,,Shiroda,850,,Shiroda,,,,
+120,03-01-2023,Medium,15.88333333,73.36666667,,,Shiroda,850,,Shiroda,,,,
+121,03-01-2023,Medium,15.88333333,73.36666667,,,Shiroda,850,,Shiroda,,,,
+122,03-01-2023,Medium,15.88333333,73.36666667,,,Shiroda,850,,Shiroda,,,,
+123,03-01-2023,Medium,15.6,73.36666667,,,Shiroda,851,15.6,Shiroda,,,,GPS - fisher
+124,03-01-2023,Medium,15.6,73.36666667,,,Shiroda,851,15.6,Shiroda,,,,GPS - fisher
+125,03-01-2023,Medium,15.6,73.36666667,,,Shiroda,851,15.6,Shiroda,,,,GPS - fisher
+258,,Medium,,,,,Shiroda,Marshal,,Shiroda,15.81666667,73.2,,
+260,,Medium,,,,,Shiroda,Marshal,,Shiroda,15.8,73.2,,
+262,,Medium,,,,,Shiroda,Marshal,,Shiroda,15.78333333,73.2,,
+264,,Medium,,,,,Shiroda,Marshal,,Shiroda,15.76666667,73.2,,
+266,,Medium,,,,,Shiroda,Marshal,,Shiroda,15.75,73.2,,
+268,,Medium,,,,,Shiroda,Marshal,,Shiroda,15.73333333,73.2,,
+270,,Medium,,,,,Shiroda,Marshal,,Shiroda,15.71666667,73.2,,
+278,29-01-2023,Medium,15.78333333,73.46666667,,,Shiroda,1054,15.78333333,,,,,
+279,29-01-2023,Medium,15.78333333,73.46666667,,,Shiroda,1054,15.78333333,,,,,
+280,29-01-2023,Medium,15.78333333,73.46666667,,,Shiroda,1054,15.78333333,,,,,
+299,04-02-2023,Medium,15.66666667,73.43333333,,,Shiroda,1150,15.66666667,,,,,
+306,24-02-2023,Medium,15.76666667,73.5,,,Shiroda,1226,15.76666667,,,,,
+307,24-02-2023,Medium,15.76666667,73.5,,,Shiroda,1226,15.76666667,,,,,
+329,21-03-2023,Medium,15.7,73.5,,,Shiroda,1466,15.7,,,,,
+12,15-12-2022,Small,16,73.2,,,Sindhudurg fort,627,,Sindhudurg fort,,,,
+13,15-12-2022,Small,16.03166667,73.43,,,Sindhudurg fort,629,16.03166667,Sindhudurg fort,,,,GPS - fisher
+14,15-12-2022,Small,16.03166667,73.43,,,Sindhudurg fort,629,16.03166667,Sindhudurg fort,,,,GPS - fisher
+196,,Small,16.045,73.414,,,Sindhudurg fort,GPSDATA-20221228,16.045,Sindhudurg fort,,,,GPS - tracker
+209,,Medium,16.01666667,,,,Sindhudurg fort,Marshal,16.01666667,Sindhudurg fort,,73.2,,Logbook
+212,,Medium,,,,,Sindhudurg fort,Marshal,,Sindhudurg fort,,73.2,,
+26,19-12-2022,Small,16.08333333,73.41666667,,,Talashil,674,16.08333333,Talashil,,,,GPS - fisher
+72,25-12-2022,Small,16,73.4,,,Talashil,741,,Talashil,,,,
+95,30-12-2022,Small,16.11666667,73.41666667,,,Talashil,810,16.11666667,Talashil,,,,GPS - fisher
+96,30-12-2022,Small,16.11666667,73.41666667,,,Talashil,810,16.11666667,Talashil,,,,GPS - fisher
+97,30-12-2022,Small,16.11666667,73.41666667,,,Talashil,810,16.11666667,Talashil,,,,GPS - fisher
+98,30-12-2022,Small,16.11666667,73.41666667,,,Talashil,810,16.11666667,Talashil,,,,GPS - fisher
+99,30-12-2022,Small,16.11666667,73.41666667,,,Talashil,810,16.11666667,Talashil,,,,GPS - fisher
+100,30-12-2022,Small,16.11666667,73.41666667,,,Talashil,810,16.11666667,Talashil,,,,GPS - fisher
+101,30-12-2022,Small,16.11666667,73.41666667,,,Talashil,810,16.11666667,Talashil,,,,GPS - fisher
+203,,Medium,16.08333333,,,,Talashil,Marshal,16.08333333,Talashil,,73.2,,Logbook
+200,,Medium,,,,,"Tambaldeg, Kunkeshwar",Marshal,,Tambaldeg,,73.2,,
+214,,Medium,,,,,Tarkarli,Marshal,,Tarkarli,15.98333333,73.2,,
+218,,Medium,,,,,Tarkarli,Marshal,,Tarkarli,15.96666667,73.2,,
+222,,Medium,,,,,Tarkarli,Marshal,,Tarkarli,15.95,73.2,,
+226,,Medium,,,,,Tarkarli,Marshal,,Tarkarli,15.93333333,73.2,,
+230,,Medium,,,,,Tarkarli,Marshal,,Tarkarli,15.91666667,73.2,,
+234,,Medium,,,,,Tarkarli,Marshal,,Tarkarli,15.9,73.2,,
+238,,Medium,,,,,Tarkarli,Marshal,,Tarkarli,15.88333333,73.2,,
+242,,Medium,,,,,Tarkarli,Marshal,,Tarkarli,15.86666667,73.2,,
+82,29-12-2022,Small,16.11666667,73.4,,,Tondavali,785,16.11666667,Tondavali,,,,GPS - fisher
+83,29-12-2022,Small,16.11666667,73.4,,,Tondavali,785,16.11666667,Tondavali,,,,GPS - fisher
+84,29-12-2022,Small,16.11666667,73.4,,,Tondavali,785,16.11666667,Tondavali,,,,GPS - fisher
+85,29-12-2022,Small,16.11666667,73.4,,,Tondavali,785,16.11666667,Tondavali,,,,GPS - fisher
+86,29-12-2022,Small,16.11666667,73.4,,,Tondavali,785,16.11666667,Tondavali,,,,GPS - fisher
+2,10-12-2022,Medium,15.81666667,73.31666667,,,Vengurla,556,15.81666667,Vengurla,,,,GPS - fisher
+15,17-12-2022,Medium,15.76666667,73.48333333,,,Vengurla,631,15.76666667,Vengurla,,,,GPS - fisher
+19,18-12-2022,Medium,15.86666667,73.4,,,Vengurla,651,15.86666667,Vengurla,,,,GPS - fisher
+20,18-12-2022,Medium,15.93333333,72.91666667,,,Vengurla,654,15.93333333,Vengurla,,,,GPS - fisher
+27,21-12-2022,Medium,15.88333333,73.36666667,,,Vengurla,679,15.88333333,Vengurla,,,,GPS - fisher
+31,21-12-2022,Medium,15.85,73.43333333,,,Vengurla,685,15.85,Vengurla,,,,GPS - fisher
+32,21-12-2022,Medium,15.85,73.45,,,Vengurla,685,15.85,Vengurla,,,,GPS - fisher
+33,21-12-2022,Medium,15.73333333,73.43333333,,,Vengurla,688,15.73333333,Vengurla,,,,GPS - fisher
+34,21-12-2022,Medium,15.73333333,73.43333333,,,Vengurla,688,15.73333333,Vengurla,,,,GPS - fisher
+64,25-12-2022,Medium,15.75,73.48333333,,,Vengurla,735,15.75,Vengurla,,,,GPS - fisher
+65,25-12-2022,Medium,15.75,73.48333333,,,Vengurla,735,15.75,Vengurla,,,,GPS - fisher
+68,25-12-2022,Medium,15.75,73.5,,,Vengurla,740,15.75,Vengurla,,,,GPS - fisher
+69,25-12-2022,Medium,15.75,73.5,,,Vengurla,740,15.75,Vengurla,,,,GPS - fisher
+70,25-12-2022,Medium,15.75,73.5,,,Vengurla,740,15.75,Vengurla,,,,GPS - fisher
+71,25-12-2022,Medium,15.75,73.5,,,Vengurla,740,15.75,Vengurla,,,,GPS - fisher
+73,26-12-2022,Medium,15.85,73.31666667,,,Vengurla,746,15.85,Vengurla,,,,GPS - fisher
+74,26-12-2022,Medium,15.85,73.31666667,,,Vengurla,746,15.85,Vengurla,,,,GPS - fisher
+75,26-12-2022,Medium,15.75,73.5,,,Vengurla,747,15.75,Vengurla,,,,GPS - fisher
+76,29-12-2022,Medium,15.93333333,73.48333333,,,Vengurla,782,,Vengurla,,,,
+77,29-12-2022,Medium,15.93333333,73.48333333,,,Vengurla,782,,Vengurla,,,,
+78,29-12-2022,Medium,15.93333333,73.48333333,,,Vengurla,782,,Vengurla,,,,
+79,29-12-2022,Medium,15.75,73.4,,,Vengurla,783,15.75,Vengurla,,,,GPS - fisher
+80,29-12-2022,Medium,15.75,73.4,,,Vengurla,783,15.75,Vengurla,,,,GPS - fisher
+81,29-12-2022,Medium,15.78333333,73.45,,,Vengurla,784,15.78333333,Vengurla,,,,GPS - fisher
+133,07-01-2023,Medium,15.86666667,73.36666667,,,Vengurla,889,15.86666667,Vengurla,,,,GPS - fisher
+134,07-01-2023,Medium,15.86666667,73.36666667,,,Vengurla,889,15.86666667,Vengurla,,,,GPS - fisher
+139,10-01-2023,Medium,16.26666667,73.03333333,,,Vengurla,912,,Vengurla,,,,
+248,,Medium,,,,,Vengurla,Marshal,15.86666667,Vengurla,15.86666667,73.2,,Logbook
+251,,Medium,,,,,Vengurla,Marshal,15.85,Vengurla,15.85,73.2,,Logbook
+254,,Medium,,,,,Vengurla,Marshal,15.83333333,Vengurla,15.83333333,73.2,,Logbook
+257,,Medium,,,,,Vengurla,Marshal,15.81666667,Vengurla,15.81666667,73.2,,Logbook
+275,29-01-2023,Medium,15.75,73.41666667,,,Vengurla,1052,15.75,,,,,
+276,29-01-2023,Medium,15.75,73.41666667,,,Vengurla,1052,15.75,,,,,
+282,01-02-2023,Medium,15.73333333,73.35,,,Vengurla,1107,15.73333333,,,,,
+333,07-04-2023,Medium,15.78333333,73.51666667,,,Vengurla,1582,15.78333333,,,,,
+334,07-04-2023,Medium,15.78333333,73.51666667,,,Vengurla,1582,15.78333333,,,,,
+335,07-04-2023,Medium,15.78333333,73.51666667,,,Vengurla,1582,15.78333333,,,,,
+336,07-04-2023,Medium,15.78333333,73.51666667,,,Vengurla,1582,15.78333333,,,,,
+337,07-04-2023,Medium,15.78333333,73.51666667,,,Vengurla,1582,15.78333333,,,,,
+338,07-04-2023,Medium,15.78333333,73.51666667,,,Vengurla,1583,15.78333333,,,,,
+339,07-04-2023,Medium,15.78333333,73.51666667,,,Vengurla,1583,15.78333333,,,,,
+197,,Medium,16.66666667,,,,Vijaydurg,Marshal,16.66666667,Vijaydurg,,73.2,,Logbook
+1,09-12-2022,Large,15.971,73.37333333,,,,551,15.971,,,,,
+174,,Large,16.1167,73.4333,,,,Track_03-DEC-22 094031,16.1167,,,,,
+175,,Large,16.1,73.4333,,,,Track_03-DEC-22 094031,16.1,,,,,
+176,,Large,15.4833,73.7167,,,,Track_03-DEC-22 094031,15.4833,,,,,
+177,,Large,15.7,73.6,,,,Track_03-DEC-22 094031,15.7,,,,,
+178,,Large,15.75,73.6167,,,,Track_03-DEC-22 094031,15.75,,,,,
+179,,Large,16.1333,73.4,,,,Track_03-DEC-22 094031,16.1333,,,,,
+180,,Large,16.0333,73.4167,,,,Track_03-DEC-22 094031,16.0333,,,,,
+181,,Large,16.1667,73.3833,,,,Track_03-DEC-22 094031,16.1667,,,,,
+182,,Large,16.15,73.3833,,,,Track_03-DEC-22 094031,16.15,,,,,
+183,,Large,16.1,73.4333,,,,Track_03-DEC-22 094031,16.1,,,,,
+185,03-12-2022,Large,16.215,73.3742,,,,GPSDATA-20221208,16.215,,,,,
+186,04-12-2022,Large,16.2233,73.3958,,,,GPSDATA-20221208,16.2233,,,,,
+187,04-12-2022,Large,16.255,73.375,,,,GPSDATA-20221208,16.255,,,,,
+188,05-12-2022,Large,16.09,73.4217,,,,GPSDATA-20221208,16.09,,,,,
+189,06-12-2022,Large,16.082,73.422,,,,GPSDATA-20221208,16.082,,,,,
+190,06-12-2022,Large,15.8469,73.5793,,,,GPSDATA-20221208,15.8469,,,,,
+191,07-12-2022,Large,15.9029,73.5166,,,,GPSDATA-20221208,15.9029,,,,,
+192,,Large Trawler,15.799,73.5742,15.8444,73.5625,,,15.799,Vengurla,,,,Logbook
+193,,Large Trawler,16.025,73.3455,16.1159,73.3708,,,16.025,Malvan,,,,Logbook
+194,,Large Trawler,16.0233,73.4092,15.9083,73.4267,,,16.0233,Lighthouse,,,,Logbook
+195,,Large Trawler,15.9258,73.4108,15.9835,73.44,,,15.9258,Lighthouse,,,,Logbook
+196,,Large Trawler,16.0033,73.375,15.94,73.4467,,,16.0033,Lighthouse,,,,Logbook
+197,,Large Trawler,16.1583,73.3542,16.02,73.405,,,16.1583,Malvan,,,,Logbook
+198,,Large Trawler,16.0417,73.4058,16.0283,73.3967,,,16.0417,Malvan,,,,Logbook
+199,,Large Trawler,16.2356,73.3258,16.1603,73.3535,,,16.2356,Achara,,,,Logbook
+200,,Large Trawler,16.1709,73.3383,16.0801,73.3689,,,16.1709,Malvan,,,,Logbook
+201,,Large Trawler,15.9775,73.3636,15.875,73.4083,,,15.9775,Lighthouse,,,,Logbook
+202,,Large Trawler,15.9183,73.3725,16.02,73.4042,,,15.9183,Lighthouse,,,,Logbook
+203,,Large Trawler,16.0025,73.4058,15.8717,73.3625,,,16.0025,Lighthouse,,,,Logbook
+204,,Large Trawler,16.04673,73.39323,16.148967,73.370234,,06-12-2022 09_40_02 PM,16.04673,Malvan,,,,GPS - tracker
+205,,Large Trawler,16.14769,73.3573,16.04325,73.38975,,06-12-2022 09_40_02 PM,16.14769,Malvan,,,,GPS - tracker
+206,,Large Trawler,16.04044,73.38988,16.14878,73.37182,,06-12-2022 09_40_02 PM,16.04044,Malvan,,,,GPS - tracker
+207,,Large Trawler,16.15373,73.35352,16.28891,73.34498,,06-12-2022 09_40_02 PM,16.15373,Achara,,,,GPS - tracker
+208,,Large Trawler,16.23937,73.32253,16.40969,73.2547,,06-12-2022 09_40_02 PM,16.23937,Devgadh,,,,GPS - tracker
+210,,Large Trawler,16.03233,73.35346,15.85372,73.40665,,GPSDATA-20221209,16.03233,Lighthouse,,,,GPS - tracker
+211,,Large Trawler,15.84786,73.4086,16.01525,73.3437,,GPSDATA-20221209,15.84786,Lighthouse,,,,GPS - tracker
+212,,Large Trawler,16.01671,73.33491,15.81736,73.42471,,GPSDATA-20221209,16.01671,Lighthouse,,,,GPS - tracker
+213,,Large Trawler,15.81175,73.54598,15.8725,73.44911,,GPSDATA-20221209,15.81175,Vengurla,,,,GPS - tracker
+214,,Large,15.9815,73.19916667,,,,,,,,,,
+215,,Large,15.94075,73.199,,,,,,,,,,
+216,,Large,16.48615,73.1895,,,,,,,,,,
+217,,Large,16.0685,73.19166667,,,,,,,,,,
+218,,Large,16.67333333,73.18833333,,,,,,,,,,
+219,,Large,16.165,73.195,,,,,,,,,,
+220,,Large,16.61166667,73.19266667,,,,,,,,,,
+221,,Large,16.38133333,73.18433333,,,,,,,,,,
+222,,Large,17.26463333,73.18883333,,,,,,,,,,
+223,,Large,16.438,73.191,,,,,,,,,,
+224,,Large,16.47696667,73.19093333,,,,,,,,,,
+225,,Large,17.05333333,73.19116667,,,,,,,,,,
+226,,Large,15.9605,73.19583333,,,,,,,,,,
+227,,Large,16.65666667,73.19633333,,,,,,,,,,
+228,,Large,15.915,73.20666667,,,,,,,,,,
+229,,Large,16.533,73.2095,,,,,,,,,,
+230,,Large,15.85616667,73.2095,,,,,,,,,,
+231,,Large,16.79833333,73.20583333,,,,,,,,,,
+232,,Large,17.16666667,73.215,,,,,,,,,,
+233,,Large,15.90833333,73.21,,,,,,,,,,
+234,,Large,16.51633333,73.20166667,,,,,,,,,,
+235,,Large,16.76466667,73.20416667,,,,,,,,,,
+236,,Large,17.00333333,73.21,,,,,,,,,,
+237,,Large,16.80833333,73.20866667,,,,,,,,,,
+238,,Large,15.98333333,73.20166667,,,,,,,,,,
+239,,Large,17.05,73.20933333,,,,,,,,,,
+240,,Large,17.02333333,73.21,,,,,,,,,,
+241,,Large,16.42666667,73.208,,,,,,,,,,
+242,,Large,16.27833333,73.20166667,,,,,,,,,,
+243,,Large,15.90833333,73.2025,,,,,,,,,,
+244,,Large,16.69833333,73.20466667,,,,,,,,,,
+363,26-08-2023,Medium,,,,,,1864,16.18834112,Achara,,,,GPS - fisher
+364,26-08-2023,Medium,,,,,,1864,16.18834112,Achara,,,,GPS - fisher
+365,26-08-2023,Medium,,,,,,1864,16.18834112,Achara,,,,GPS - fisher
+366,26-08-2023,Medium,,,,,,1864,16.18834112,Achara,,,,GPS - fisher
+367,26-08-2023,Medium,,,,,,1864,16.18834112,Achara,,,,GPS - fisher
+368,26-08-2023,Medium,,,,,,1865,16.101004,Kavda rock,,,,GPS - fisher
+369,26-08-2023,Medium,,,,,,1865,16.101004,Kavda rock,,,,GPS - fisher
+370,26-08-2023,Medium,,,,,,1865,16.101004,Kavda rock,,,,GPS - fisher
+371,27-08-2023,Medium,,,,,,1866,16.18834112,Achara,,,,GPS - fisher
+372,27-08-2023,Medium,,,,,,1866,16.18834112,Achara,,,,GPS - fisher
+373,27-08-2023,Medium,,,,,,1866,16.18834112,Achara,,,,GPS - fisher
+374,27-08-2023,Medium,,,,,,1866,16.18834112,Achara,,,,GPS - fisher
+375,27-08-2023,Medium,,,,,,1867,16.18834112,Achara,,,,GPS - fisher
+376,27-08-2023,Medium,,,,,,1867,16.18834112,Achara,,,,GPS - fisher
+377,27-08-2023,Medium,,,,,,1867,16.18834112,Achara,,,,GPS - fisher
+378,27-08-2023,Medium,,,,,,1869,16.18834112,Achara,,,,GPS - fisher
+379,27-08-2023,Medium,,,,,,1869,16.18834112,Achara,,,,GPS - fisher
+380,27-08-2023,Medium,,,,,,1869,16.18834112,Achara,,,,GPS - fisher
+381,27-08-2023,Medium,,,,,,1869,16.18834112,Achara,,,,GPS - fisher
+382,30-08-2023,Medium,,,,,,1873,16.05295876,Malvan,,,,GPS - fisher
+383,30-08-2023,Medium,,,,,,1874,16.101004,Kavda rock,,,,GPS - fisher
+384,30-08-2023,Medium,,,,,,1874,16.101004,Kavda rock,,,,GPS - fisher
+385,31-08-2023,Medium,,,,,,1875,16.0418,Sindhudurg fort,,,,GPS - fisher
+386,31-08-2023,Medium,,,,,,1876,15.85166698,Vengurla,,,,GPS - fisher
+387,31-08-2023,Medium,,,,,,1876,15.85166698,Vengurla,,,,GPS - fisher
+388,31-08-2023,Medium,,,,,,1876,15.85166698,Vengurla,,,,GPS - fisher
+389,31-08-2023,Medium,,,,,,1876,15.85166698,Vengurla,,,,GPS - fisher
+390,31-08-2023,Medium,,,,,,1876,15.85166698,Vengurla,,,,GPS - fisher
+391,31-08-2023,Medium,,,,,,1876,15.85166698,Vengurla,,,,GPS - fisher
+392,31-08-2023,Medium,,,,,,1876,15.85166698,Vengurla,,,,GPS - fisher
+393,31-08-2023,Medium,,,,,,1876,15.85166698,Vengurla,,,,GPS - fisher
+394,31-08-2023,Medium,,,,,,1876,15.85166698,Vengurla,,,,GPS - fisher
+395,31-08-2023,Medium,,,,,,1876,15.85166698,Vengurla,,,,GPS - fisher
+396,03-09-2023,Medium,,,,,,1886,16.18834112,Achara,,,,GPS - fisher
+397,03-09-2023,Medium,,,,,,1886,16.18834112,Achara,,,,GPS - fisher
+398,03-09-2023,Medium,,,,,,1886,16.18834112,Achara,,,,GPS - fisher
+399,04-09-2023,Medium,,,,,,1892,16.18834112,Achara,,,,GPS - fisher
+400,04-09-2023,Medium,,,,,,1892,16.18834112,Achara,,,,GPS - fisher
+401,04-09-2023,Medium,,,,,,1892,16.18834112,Achara,,,,GPS - fisher
+402,04-09-2023,Medium,,,,,,1892,16.18834112,Achara,,,,GPS - fisher
+403,04-09-2023,Medium,,,,,,1892,16.18834112,Achara,,,,GPS - fisher
+404,07-09-2023,Medium,,,,,,1902,16.18834112,Achara,,,,GPS - fisher
+405,07-09-2023,Medium,,,,,,1902,16.18834112,Achara,,,,GPS - fisher
+406,07-09-2023,Medium,,,,,,1902,16.18834112,Achara,,,,GPS - fisher
+407,07-09-2023,Medium,,,,,,1902,16.18834112,Achara,,,,GPS - fisher
+408,07-09-2023,Medium,,,,,,1902,16.18834112,Achara,,,,GPS - fisher
